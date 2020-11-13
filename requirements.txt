@@ -1,0 +1,6 @@
+demjson~=2.2.4
+requests~=2.24.0
+lxml~=4.5.2
+selenium~=3.141.0
+pyttsx3~=2.90
+python-pushover~=0.4
